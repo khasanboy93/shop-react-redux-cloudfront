@@ -22,7 +22,7 @@ export default function Header() {
       <Toolbar>
         <Typography variant="h6" style={{ flexGrow: 1 }}>
           <Link style={{ color: "white", textDecoration: "none" }} to="/">
-            My Store!
+            My CloudX FE Store!
           </Link>
         </Typography>
 
