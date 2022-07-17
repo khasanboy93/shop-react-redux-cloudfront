@@ -7,7 +7,7 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary" align="center">
       {"Copyright © "}
       <Link color="inherit" href="https://material-ui.com/">
-        My Store
+        My CloudX Store
       </Link>{" "}
       {new Date().getFullYear()}
       {"."}
@@ -30,7 +30,7 @@ const MainLayout: React.FC<Props> = ({ children }) => {
       </main>
       <footer style={{ backgroundColor: "#fff", padding: "3rem" }}>
         <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
-          Thank you for your purchase!
+          Thank you for your attention!
         </Typography>
         <Copyright />
       </footer>
